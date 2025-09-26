@@ -14,4 +14,4 @@
 
 this is a simple yet creative and aesthetic fully responsive web design that can adapt according to viewport size for various devices like mobile phones, tablets and desktops
 
-![image_alt](https://github.com/HoneyRajgor/Responsive-web-design/blob/main/perfect.png?raw=true)
+![image_alt](https://github.com/HoneyRajgor/Responsive-web-design/blob/main/IMG-20250923-WA0005.jpg?raw=true)
